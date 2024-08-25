@@ -10,3 +10,5 @@ https://github.com/stepanowon/woori-fis/README.md
   - 가입 후 로그인하고 https://stepanowon.slack.com 로 접속후 #woori0826 채널로 이동합니다.
      (안보이면 Add Channels - Browse Channels 로 이동하여 검색후 추가하여 들어와주세요)
   - 교육 기간 동안만 유지됩니다. 교육이 완료되면 채널을 삭제할 것입니다.  
+### 설치 파일 다운로드 - 구글 드라이브 링크
+  - https://bit.ly/woori-setup
